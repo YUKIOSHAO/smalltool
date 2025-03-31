@@ -6,7 +6,7 @@ from functools import lru_cache
 
 # 从环境变量获取API密钥
 
-API_KEY = "sk-9c4295a93fca4d28953cf4460963975a"
+API_KEY = "xx"
 
 # 使用指定的API URL和模型
 client = OpenAI(api_key=API_KEY, base_url="https://api.deepseek.com")
